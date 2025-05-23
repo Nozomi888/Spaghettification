@@ -54,7 +54,7 @@ React-Webcam – Provides live interaction
 Netlify – Hosts the project live
 
 Deployment
- Live Version: Your Hosted Link Here 
+ Live Version:  https://spaghettification-learning-experience.netlify.app/
 
 Future Improvements
 🔹 Advanced AI Narration – More natural speech synthesis 🔹 Additional Space Theories – Expansion beyond black holes 🔹 Custom Avatars – Users can choose their own space explorer
