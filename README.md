@@ -2,6 +2,7 @@
 
 # Spaghettification Learning Experience 🌌
 Overview
+
 This project is an interactive space-themed learning experience designed to explore Spaghettification—the stretching effect of black holes. It’s a fun and engaging educational tool that makes complex astrophysics concepts accessible through dynamic quizzes, animated avatars, real-time speech synthesis, and interactive responses.
 
 Features
