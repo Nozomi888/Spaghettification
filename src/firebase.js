@@ -3,13 +3,13 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCTvKv2k_bm8lFnOQ6SBpsGYrBxvPMBwSE",
-  authDomain: "spaghettification-20573.firebaseapp.com",
-  projectId: "spaghettification-20573",
-  storageBucket: "spaghettification-20573.firebasestorage.app",
-  messagingSenderId: "296075989856",
-  appId: "1:296075989856:web:de0596ab82c0531ce40405",
-  measurementId: "G-VVE3N5BG01"
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID
 };
 
 firebase.initializeApp(firebaseConfig);
