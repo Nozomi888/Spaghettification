@@ -24,22 +24,23 @@ Smooth Speech & Animations – Uses text-to-speech narration for accessibility
 Installation & Setup
 1. Clone the Repository
 
-sh
-
 git clone https://github.com/your-username/spaghettification-learning.git
+
 cd spaghettification-learning
 
 2. Install Dependencies
-sh
+
 npm install
 
-3. Run the Application
-sh
+2. Run the Application
+
 npm start
+
 Open http://localhost:3000 to view the app.
 
 
 Tech Stack
+
 React.js – Frontend framework
 
 Three.js / React-Three-Fiber – For 3D Avatar animations
